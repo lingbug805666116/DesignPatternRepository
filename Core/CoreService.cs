@@ -30,5 +30,10 @@ namespace Core
                 Thread.Sleep(1000);
             }
         }
+
+        public static decimal MoneyFormat(decimal money)
+        {
+            return Math.Round(money, 2);
+        }
     }
 }

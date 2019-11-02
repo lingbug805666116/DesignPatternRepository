@@ -1,0 +1,7 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\bin\Debug\IteratorPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\bin\Debug\IteratorPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\obj\Debug\IteratorPattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\obj\Debug\IteratorPattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\obj\Debug\IteratorPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\IteratorPattern\obj\Debug\IteratorPattern.pdb

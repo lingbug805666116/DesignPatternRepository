@@ -1,0 +1,7 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\ObserverPattern\obj\Debug\ObserverPattern.pdb
