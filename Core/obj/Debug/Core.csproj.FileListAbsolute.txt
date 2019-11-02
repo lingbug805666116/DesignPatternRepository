@@ -1,0 +1,6 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\bin\Debug\Core.dll
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\bin\Debug\Core.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\obj\Debug\Core.dll
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\Core\obj\Debug\Core.pdb

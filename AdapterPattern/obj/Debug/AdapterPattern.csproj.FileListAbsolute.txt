@@ -1,0 +1,7 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\AdapterPattern\obj\Debug\AdapterPattern.pdb

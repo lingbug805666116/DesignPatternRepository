@@ -1,0 +1,7 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb

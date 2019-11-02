@@ -1,0 +1,7 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\bin\Debug\ComposePattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\bin\Debug\ComposePattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\bin\Debug\ComposePattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\obj\Debug\ComposePattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\obj\Debug\ComposePattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\obj\Debug\ComposePattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\17.DesignPattern2019-10-31\DesignPatternProject\ComposePattern\obj\Debug\ComposePattern.pdb
