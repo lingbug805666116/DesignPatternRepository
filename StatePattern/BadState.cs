@@ -39,7 +39,10 @@ namespace StatePattern
 
         public override void ValidateStateChange()
         {
-            throw new NotImplementedException();
+            if (this.Money >= this.Max)
+            {
+                this.Person.State = new NewState(this);
+            }
         }
     }
 }

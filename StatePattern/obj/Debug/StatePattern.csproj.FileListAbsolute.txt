@@ -1,0 +1,10 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\bin\Debug\StatePattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\bin\Debug\StatePattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\bin\Debug\StatePattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\bin\Debug\Core.dll
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\bin\Debug\Core.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\obj\Debug\StatePattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\obj\Debug\StatePattern.csproj.CopyComplete
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\obj\Debug\StatePattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\StatePattern\obj\Debug\StatePattern.pdb

@@ -1,0 +1,10 @@
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\bin\Debug\VisitorPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\bin\Debug\VisitorPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\obj\Debug\VisitorPattern.csprojAssemblyReference.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\obj\Debug\VisitorPattern.csproj.CoreCompileInputs.cache
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\obj\Debug\VisitorPattern.exe
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\obj\Debug\VisitorPattern.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\bin\Debug\Core.dll
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\bin\Debug\Core.pdb
+D:\1.Lingbug\3.Code\1.LingbugCode\18.DesignPattern-git-2019-11-2\DesignPatternRepository\VisitorPattern\obj\Debug\VisitorPattern.csproj.CopyComplete

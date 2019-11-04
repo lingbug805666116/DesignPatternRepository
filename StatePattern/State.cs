@@ -52,12 +52,5 @@ namespace StatePattern
         public abstract void ShowInterest();
 
         public abstract void ValidateStateChange();
-
-        public void Show()
-        {
-            Console.WriteLine("当前余额：{0}", CoreService.MoneyFormat(this.Money));
-            Console.WriteLine("当前利率：{0}", this.Rate);
-            Console.WriteLine("当前状态：{0}", this.GetType().Name);
-        }
     }
 }

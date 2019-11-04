@@ -45,7 +45,7 @@ namespace StatePattern
 
         public override void ValidateStateChange()
         {
-            if (this.Money <= this.Min)
+            if (this.Money < this.Min)
             {
                 this.Person.State = new BadState(this);
             }

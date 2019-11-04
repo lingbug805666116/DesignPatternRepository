@@ -17,7 +17,7 @@ namespace StatePattern
             this.Money = state.Money;
             this.Person = state.Person;
             this.Rate = Convert.ToDecimal(0.005);
-            this.Min = 10000;
+            this.Min = 1000;
             this.Max = Decimal.MaxValue;
         }
 
@@ -40,7 +40,10 @@ namespace StatePattern
 
         public override void ValidateStateChange()
         {
-            
+            if (this.Money <= this.Min)
+            {
+                this.Person.State = new NewState(this);
+            }
         }
     }
 }

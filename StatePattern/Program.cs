@@ -28,7 +28,22 @@ namespace StatePattern
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-
+            var person = new Person();
+            person.Show();
+            Console.WriteLine("-------------------------------------------------");
+            person.GetMoney(500);
+            Console.WriteLine("-------------------------------------------------");
+            person.GetMoney(100);
+            Console.WriteLine("-------------------------------------------------");
+            person.SaveMoney(888);
+            Console.WriteLine("-------------------------------------------------");
+            person.ShowInterest();
+            Console.WriteLine("-------------------------------------------------");
+            person.SaveMoney(20000);
+            Console.WriteLine("-------------------------------------------------");
+            person.ShowInterest();
+            Console.WriteLine("-------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }

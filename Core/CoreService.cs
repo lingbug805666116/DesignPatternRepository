@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace Core
 {
@@ -34,6 +35,14 @@ namespace Core
         public static decimal MoneyFormat(decimal money)
         {
             return Math.Round(money, 2);
+        }
+
+        public static readonly Random Ran = new Random();
+
+        public static T CloneData<T>(T data)
+        {
+            var json = JsonConvert.SerializeObject(data);
+            return JsonConvert.DeserializeObject<T>(json);
         }
     }
 }
